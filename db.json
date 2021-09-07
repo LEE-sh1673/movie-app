@@ -1,0 +1,21 @@
+{
+  "posts": [
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "movies": [
+    {
+      "name": "A",
+      "image_url": "www.example.com/profile.png"
+    }
+  ]
+}
